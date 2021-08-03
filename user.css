@@ -1,0 +1,19 @@
+/* Friends names */
+.main-buddyFeed-username a {
+	color: var(--spice-text) !important;
+	font-size: 17px;
+	font-weight: 500;
+}
+
+/* Friends songs and artists */
+.main-buddyFeed-artistAndTrackName a,
+.main-buddyFeed-playbackContextLink span {
+	font-size: 13px;
+}
+
+/* "You're listening on ..." */
+.main-connectBar-connectBar__icon,
+.main-connectBar-connectBar,
+.main-connectBar-connectBar__deviceName {
+	color: #D3DAE3;
+}
